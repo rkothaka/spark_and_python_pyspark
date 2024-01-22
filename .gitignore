@@ -1,0 +1,5 @@
+base_env
+venv
+.obsidian
+.idea
+.DS_Store
